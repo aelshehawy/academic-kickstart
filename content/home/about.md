@@ -10,7 +10,6 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
     "Computational Linguistics",
     "Information Retrieval"
   ]
@@ -27,7 +26,7 @@ weight = 5
   year = 2009
 
 [[education.courses]]
-  course = "BSc in Artificial Intelligence"
+  course = "BScAAA in Artificial Intelligence"
   institution = "Massachusetts Institute of Technology"
   year = 2008
  
